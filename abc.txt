@@ -4,3 +4,5 @@ learnin GIT an GitHub
 
 
 Modified
+
+commit #1 during squash
